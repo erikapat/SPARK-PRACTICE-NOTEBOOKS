@@ -3,7 +3,7 @@
 # platform: osx-64
 #blas=1.0=mkl
 #ca-certificates=2019.11.27=0
-certifi=2019.11.28=py38_0
+#certifi=2019.11.28=py38_0
 intel-openmp=2019.4=233
 libcxx=4.0.1=hcfea43d_1
 libcxxabi=4.0.1=hcfea43d_1
